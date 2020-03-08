@@ -3,6 +3,8 @@
   
 ## Get Started 
    * dev
+   
     npm run dev
    * production 
+   
     npm run build 
